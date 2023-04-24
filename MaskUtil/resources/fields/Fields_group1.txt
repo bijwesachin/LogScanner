@@ -1,0 +1,4 @@
+\"dealName\":\"
+\"calculatedDealName\":\"
+\"description\":\"
+\"products\":\"
