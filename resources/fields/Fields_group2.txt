@@ -1,1 +1,13 @@
-*****
+<clientName>
+<primarySubProduct>
+<nonfsgPartyIssurPrtfloCmp>
+<dealworksBillingEntityID>
+<dealDescription>
+<conterpartyName>
+<typeofDeal>
+<clientLink>
+<expenseAmount>
+<subsubProduct>
+<folderName>
+<conterpartyName>
+<productLabel>
